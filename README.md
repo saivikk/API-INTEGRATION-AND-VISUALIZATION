@@ -100,3 +100,7 @@ This integration of live data with dynamic visualizations is highly valuable in 
 Conclusion
 
 Python’s ability to seamlessly integrate with APIs and visualize data makes it a powerful tool for modern software development and data analysis. With just a few lines of code, developers and analysts can fetch real-time data from around the world and turn it into actionable insights through graphs, charts, and interactive dashboards. This combination enhances data comprehension and supports better decision-making, making it a critical skill in today's data-driven world.
+
+
+#OUTPUT :
+![Image](https://github.com/user-attachments/assets/9d1b6929-9343-44a8-80c7-7b5e7f4c0721)
